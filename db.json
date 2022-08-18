@@ -41,7 +41,7 @@
    },
    {
     "username": "sir.butterfly",
-    'image': "https://robohash.org/shine.png?size=300x300",
+    "image": "https://robohash.org/shine.png?size=300x300",
     "title": "right build close",
     "amountVotes": 670,
     "date_time": "Sat Feb 9 19:47:45 UTC 1974",
@@ -99,8 +99,8 @@
             "amountComments": 0
         },
         {
-            "comment": 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a suscipit augue. Nunc et imperdiet mi.',
-            "author": 'sherif-snow-60',
+            "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a suscipit augue. Nunc et imperdiet mi.",
+            "author": "sherif-snow-60",
             "amountVotes": 15,
             "date_time": "Fri Sep 1 13:46:40 UTC 1972",
             "amountComments": 0
